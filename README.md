@@ -13,6 +13,8 @@
 - [Slope](https://slopeio.org/)
 - [Meca Bricks](https://mecabricks.com/)
 - [Smash Karts](https://smashkarts.io/)
+- [simplyup](https://simplyup.io/)
+- [soccerbros](https://soccerbros.org/)
 
 ## 4. Retro
 - [Art Class](https://artclass-eta.vercel.app/)
@@ -27,3 +29,4 @@
 - [Neal](https://neal.fun/)
 - [Things](https://things.co/)
 - [Auto Draw](https://www.autodraw.com/)
+- [pixie](https://pixie.haus/)
