@@ -30,6 +30,7 @@
 - [Funko](https://funko.com/)
 - [Romspedia](https://www.romspedia.com/)
 - [Basket Bros](https://basketbros.io/)
+- [2048](https://play2048.co/)
 
 ## 5. Study
 - [Diode](https://www.withdiode.com/)
