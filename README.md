@@ -20,6 +20,8 @@
 - [Lol Beans](https://lolbeans.io/)
 - [Dead Shot](https://deadshot.io/?party=jpad58)
 - [Shell Sock](https://shellshock.io/)
+- [Zombsroyal](https://zombsroyale.io/)
+- [Fishing Ton](https://fishington.io/)
 
 ## 4. Retro
 - [Art Class](https://artclass-eta.vercel.app/)
