@@ -43,6 +43,7 @@
 - [pixie](https://pixie.haus/)
 - [Learn Anything](https://learn-anything.xyz/)
 - [Floor 796](https://floor796.com/)
+- [Aixploria](https://www.aixploria.com/en/)
 
 ## 6. PC Games
 - [4fnet](https://www.4fnet.org/)
